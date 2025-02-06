@@ -11,7 +11,7 @@ export const presets = {
   'avatar': {
     quality: 80,
     format: 'webp',
-    fit: 'scale-down',
+    fit: 'cover',
     width: 256,
     height: 256,
   },
